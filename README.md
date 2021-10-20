@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neumaru
+- 👋 Hi, I’m @Neumaru,
       I love Linux and I was a Server Side Engineer and now I am not have a job and learning Web Design online.
       I love especially OpenSUSE Tumbleweed, it makes me more fun and comfortable.
       Now I am Learning how to use Photoshop and HTML5/CSS3, and I want to learn how to coding on Processing and JavaScript.
