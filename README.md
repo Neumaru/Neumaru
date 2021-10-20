@@ -9,6 +9,7 @@
       HTML5/CSS3, Photoshop, SASS, Adobe XD
 - 💞️ I’m looking to collaborate on ...
       If you have to translate to Japanese your apps, maybe I can help your work. When I was Engineer, I translated manual wrote by English to Japanese.
+      ※日英翻訳も承ります。意に添えれば幸いです。
       I am Native to Japanese, so I can frequently translate.
       Or, if you are interested to me, please let me in your work. Still I don't have power of Coding, but I want to be learn more improve my skills!
 - 📫 How to reach me ...
